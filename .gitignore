@@ -1,0 +1,6 @@
+manga.db
+media/*
+!media/temp
+media/temp/*
+.idea
+*.pyc
